@@ -21,12 +21,3 @@ function isGoldenYears(age) {
     return "golden years";
   }
 }
-function isntGoldenyears(age) {
-    if (age < 75) {
-      return "not golden years";
-    }
-function Dead(age) {
-    if (age > 95) {
-        return "dead";
-    }  
-}
